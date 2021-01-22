@@ -1,0 +1,47 @@
+.header{
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+    border: solid;
+}
+.description{
+    text-align: center;
+    background-color: aqua;
+    border:groove;
+    border-width: 10px;
+    border-radius: 20px;
+    
+}
+.others{
+    background-color: mediumspringgreen;
+    justify-content: space-evenly;
+}
+
+.matter{
+    background-color: khaki;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+
+
+}
+.about{
+    background-color: mediumspringgreen;
+    justify-content: space-evenly;
+}
+.follow{
+    background-color: mediumspringgreen;
+    justify-content: space-evenly;
+}
+
+.about{
+    background: border-box;
+    background-color: rgb(142, 216, 226);
+}
+.grid{
+    display:flex;
+    margin:10px;
+    padding: 10px;
+    word-wrap: normal;
+    justify-content: space-evenly;
+    border: solid;
+}
